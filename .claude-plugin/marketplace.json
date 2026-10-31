@@ -1,0 +1,14 @@
+{
+  "name": "matthias-personal",
+  "description": "Matthias Leybold's personal skills for Claude.",
+  "owner": {
+    "name": "Matthias Leybold"
+  },
+  "plugins": [
+    {
+      "name": "personal",
+      "source": "./plugins/personal",
+      "description": "Matthias's personal skills: executive CV and cover letters, LinkedIn recruiter optimisation."
+    }
+  ]
+}
